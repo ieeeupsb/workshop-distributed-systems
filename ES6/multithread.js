@@ -1,0 +1,1 @@
+JavaScript is an asynchronous, event-based language so the concept of multithreading doesn\'t really apply :)
